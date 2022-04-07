@@ -1,0 +1,95 @@
+html {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(rgb(221, 227, 228) 0%, rgb(97, 124, 129) 100%);
+    font-family: 'Noto Kufi Arabic', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+body {
+    width: auto;
+    height: 100%;
+}
+
+button {
+    background-color: #0f3d72;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 8px;
+
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.form-sub {
+    margin-top: 120px;
+    text-align: center;
+}
+
+.form-send {
+    left: 50%;
+    position: relative;
+    text-align: center;
+}
+
+input {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+label {
+    color: grey; /* color of the text in lable*/
+}
+
+.line{
+    text-align: center;
+    font-size: 60px;
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+
+}
+
+.table-info {
+    margin-left: 24px;
+    margin-right: 24px;
+   
+}
+.table-contact td
+{
+text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+
+
+td {
+    padding: 4px;
+    padding-left: 12px;
+}
+
+
+
+.header-info
+{
+    margin-bottom: 80px;
+}
+.profile-info
+{
+    position: absolute;
+    left: 250px;
+    top: 20px;
+    margin-bottom: 45px;
+}
